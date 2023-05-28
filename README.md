@@ -1,3 +1,8 @@
+
+# PROJECT FOR THE FRONT-END EXAM ZHUMAGALI KANAT IT2-2003
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
