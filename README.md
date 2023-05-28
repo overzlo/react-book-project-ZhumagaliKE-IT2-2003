@@ -1,6 +1,6 @@
 
 # PROJECT FOR THE FRONT-END EXAM ZHUMAGALI KANAT IT2-2003
-
+![Image alt]https://github.com/overzlo/react-book-project-ZhumagaliKE-IT2-2003/blob/master/public/images/error.png
 
 
 # Getting Started with Create React App
