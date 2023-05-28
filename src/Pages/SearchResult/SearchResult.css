@@ -1,0 +1,30 @@
+.custom-img {
+    height: 300px; 
+    object-fit: cover;
+  }
+  .selector{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    
+
+}  
+.sel{
+  height: 34px;
+  border-radius: 30px;
+  width: 400px;
+  margin-top: 10px;
+}
+.book-card {
+  width: 100%;
+  height:450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  background-color: #DCE2E0;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
